@@ -1,0 +1,18 @@
+.subsection {
+  border-bottom: 1px solid $lightest-gray;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.aalist {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.aaitems {
+  margin: 3px;
+}
